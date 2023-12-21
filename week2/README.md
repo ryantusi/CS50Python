@@ -1,4 +1,4 @@
-# CS50 Python Week 2 - Problem Sets
+# CS50 Python Week 2 - Conditionals
 
 Welcome to Week 2 of CS50 Python! This folder contains problem sets and lab exercises from the second week of Harvard's CS50P course.
 
