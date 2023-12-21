@@ -1,4 +1,4 @@
-# CS50 Python Week 4 - Exceptions
+# CS50 Python Week 4 - Exceptions 
 
 Welcome to Week 4 of CS50 Python! This folder contains problem sets and lab exercises from the fourth week of Harvard's CS50P course.
 
