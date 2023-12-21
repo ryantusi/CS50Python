@@ -5,63 +5,31 @@ Welcome to the CS50 Python repository! Here, you'll find solutions to problem se
 ## Folder Structure:
 
 ### Week 1
-- `einstein`
-- `faces`
-- `indoor`
-- `playback`
-- `tip`
+`einstein` `faces` `indoor` `playback` `tip`
 
 ### Week 2
-- `bank`
-- `deep`
-- `extensions`
-- `interpreter`
-- `meal`
+`bank` `deep` `extensions` `interpreter` `meal`
 
 ### Week 3
-- `camel`
-- `coke`
-- `nutrition`
-- `plates`
-- `twttr`
+`camel` `coke` `nutrition` `plates` `twttr`
 
 ### Week 4
-- `fuel`
-- `grocery`
-- `outdates`
-- `taqueria`
+`fuel` `grocery` `outdates` `taqueria`
 
 ### Week 5
-- `adieu`
-- `bitcoin`
-- `emojize`
-- `figlet`
-- `game`
-- `professor`
+`adieu` `bitcoin` `emojize` `figlet` `game` `professor`
 
 ### Week 6
-- `test_bank`
-- `test_plates`
-- `test_fuel`
-- `test_twttr`
+`test_bank` `test_plates` `test_fuel` `test_twttr`
 
 ### Week 7
-- `lines`
-- `pizza`
-- `scourgify`
-- `shirt`
+`lines` `pizza` `scourgify` `shirt`
 
 ### Week 8
-- `numb3rs`
-- `response`
-- `um`
-- `watch`
-- `working`
+`numb3rs` `response` `um` `watch` `working`
 
 ### Week 9
-- `jar`
-- `seasons`
-- `shirtificate`
+`jar` `seasons` `shirtificate`
 
 ## How to Use:
 
