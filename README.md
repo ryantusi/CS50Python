@@ -36,7 +36,8 @@ Welcome to the CS50 Python repository! Here, you'll find solutions to problem se
 1. **Navigate:** Explore the folders corresponding to each week to access problem set solutions.
 2. **Learn:** Review the code to understand Python concepts and problem-solving approaches.
 3. **Contribute:** Feel free to contribute your own solutions or improvements via pull requests.
-4. **Download CS50 package:** `pip install cs50` in your own IDE 
+4. **Download CS50 package:** `pip install cs50` in your own IDE
+5. **More info**: [Click here](https://cs50.harvard.edu/python/2022/)
 
 ## Certification
 ![certificate](CS50P.png)
